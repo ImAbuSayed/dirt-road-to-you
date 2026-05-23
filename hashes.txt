@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dirt Road to You
+
+This log tracks the cryptographic history and versioning for the song **Dirt Road to You** (dirt-road-to-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T06:12:50.229268 | `v1` | `543ab8c29eb0fd59ff60e576619068d0c890838fa10db058d099c8772ada9f12` | `9917313a798f31b10ce30fb904d3d1dd8b1fe81382b41532585c09deb8aaf381` | `2026-05-23_dirt-road-to-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
